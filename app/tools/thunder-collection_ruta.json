@@ -1,0 +1,96 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "ruta",
+    "collectionId": "dd76a8f5-6cc7-41b3-a42c-a43e0071a331",
+    "dateExported": "2024-05-28T01:56:50.854Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "1f4fcf98-842c-46bb-9f13-9fa69c6424b4",
+            "colId": "dd76a8f5-6cc7-41b3-a42c-a43e0071a331",
+            "containerId": "",
+            "name": "eliminar",
+            "url": "http://localhost:9101/eliminar/7",
+            "method": "DELETE",
+            "sortNum": 10000,
+            "created": "2024-05-27T21:43:55.165Z",
+            "modified": "2024-05-28T01:48:31.119Z",
+            "headers": [
+                {
+                    "name": "Content-Type",
+                    "value": "application/json"
+                }
+            ]
+        },
+        {
+            "_id": "576024b1-ddc9-46ad-a3db-c8cefde50a61",
+            "colId": "dd76a8f5-6cc7-41b3-a42c-a43e0071a331",
+            "containerId": "",
+            "name": "Mostrar",
+            "url": "http://localhost:9101/pago/2",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-05-28T01:50:15.168Z",
+            "modified": "2024-05-28T01:50:54.670Z",
+            "headers": []
+        },
+        {
+            "_id": "6c498c47-6626-4496-afc5-da126b16ff9d",
+            "colId": "dd76a8f5-6cc7-41b3-a42c-a43e0071a331",
+            "containerId": "",
+            "name": "listar",
+            "url": "http://localhost:9101/listar",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-05-28T01:51:07.360Z",
+            "modified": "2024-05-28T01:51:24.244Z",
+            "headers": []
+        },
+        {
+            "_id": "0ad22ccc-68e2-4004-a442-422e98ecc4ea",
+            "colId": "dd76a8f5-6cc7-41b3-a42c-a43e0071a331",
+            "containerId": "",
+            "name": "Insertar",
+            "url": "http://localhost:9101/insertar",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2024-05-28T01:51:45.255Z",
+            "modified": "2024-05-28T01:54:11.541Z",
+            "headers": [
+                {
+                    "name": "Content-Type",
+                    "value": "application/json"
+                }
+            ],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"valor\": 600\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "baa3fe46-aa57-4e5c-ba72-6ea59abb1c01",
+            "colId": "dd76a8f5-6cc7-41b3-a42c-a43e0071a331",
+            "containerId": "",
+            "name": "modificar",
+            "url": "http://localhost:9101/modificar/2",
+            "method": "PUT",
+            "sortNum": 50000,
+            "created": "2024-05-28T01:54:23.080Z",
+            "modified": "2024-05-28T01:56:19.957Z",
+            "headers": [
+                {
+                    "name": "Content-Type",
+                    "value": "application/json"
+                }
+            ],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"valor\": 500\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "P0aZ1jNkE0ZO-dWhUfzbDLOTnSzdD1oBL2B9j_Qv2kmgmTA5kzfoDt-F4eXSmk80FsRjTibmzcsksQjMpAfLMA"
+}
