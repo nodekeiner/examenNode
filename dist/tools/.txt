@@ -1,0 +1,10 @@
+1. montarlo en github - organizacion 
+2. post, get, get, put, delete
+3.crear base de datos -> tabla, minimo 1 campo
+4.exportar la db y save en el proyecto 
+5.crear collage y save en el proyecto
+6. no montar carpeta node_module
+7.contrir el dist
+8.saca apuntes
+9.ultimo commit entrega final 2
+10. copiar las condiciones
