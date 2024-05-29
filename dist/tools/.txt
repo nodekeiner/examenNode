@@ -1,3 +1,4 @@
+//apuntes
 1. montarlo en github - organizacion 
 2. post, get, get, put, delete
 3.crear base de datos -> tabla, minimo 1 campo
